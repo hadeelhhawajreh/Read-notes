@@ -13,4 +13,4 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
   
   ***As advice when you feel lost focus, try to remember that short-term frustration is likely to lead to a long-term improvement in your ability to grow mentality that opens up more creativity and potential, and discovers that you are capable of achieving more and setting higher goals.***	
-
+ 
