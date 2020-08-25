@@ -17,20 +17,25 @@ and are separated by a colon.
  -> CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify
  several properties in one declaration, each separated by a semi-colon.
   
-  Type of selector 
+  **Common  Type of selector**
   |Selector           | Meaning                                 |  Example  |
   |-------------------|:---------------------------------------:|----------:|
   |Universal Selector |  Applies to all elements in the documen | * {}      |
   |-------------------|:---------------------------------------:|----------:|
-  |Universal Selector |  Applies to all elements in the documen | * {}      |
+  |Type Selector      |  Matches element namesn                 |h1,h2...   |
   |-------------------|:---------------------------------------:|----------:|
-  |Universal Selector |  Applies to all elements in the documen | * {}      |
+  |Class Selector     |Matches an element whose class attribute |.className |
   |-------------------|:---------------------------------------:|----------:|
-  |Universal Selector |  Applies to all elements in the documen | * {}      |
+  |ID Selector        | Matches an element whose id attribute   |#id        |
   |-------------------|:---------------------------------------:|----------:|
-  |Universal Selector |  Applies to all elements in the documen | * {}      |
-  |-------------------|:---------------------------------------:|----------:|
-  |Universal Selector |  Applies to all elements in the documen | * {}      |
-  |-------------------|:---------------------------------------:|----------:|
+  
+  *another type selector:
+  -Child Selector
+  -Descendant Selector
+  -Adjacent Sibling
+  -Selector
+  -General Sibling
+  -Selector
+
 
   
